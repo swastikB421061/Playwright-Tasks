@@ -1,0 +1,28 @@
+export const TASK3TEXT={
+    "texts": {
+      "opinionScale": "Opinion Scale",
+      "starRating": "Star Rating",
+      "matrix": "Matrix",
+      "rateCustomerService": "Rate Customer Service",
+      "preferredLanguage": "Preferred Language",
+      "rateCustomerRepresentative": "Rate Customer Representative",
+      "advancedProperties": "Advanced properties",
+      "friendlyness": "Friendlyness",
+      "customer_service": "customer_service",
+      "knowledge": "Knowledge",
+      "quickness": "Quickness",
+      "excellent": "Excellent",
+      "veryGood": "VeryGood",
+      "average": "Average",
+      "addRow": "Add row",
+      "addColumn": "Add column",
+      "email":"oliver@example.com",
+      "languages":"languages",
+      "Python":"Python",
+      "Ruby":"Ruby",
+      "JavaScript":"JavaScript",
+      "C":"C",
+      "nui-drop-down":"(//button[@data-cy='nui-dropdown-icon'])[8]",
+      "options":"?email=oliver@example.com&customer_service=4&languages=Python&customer_rep.Friendlyness=Excellent&customer_rep.Knowledge=Average&customer_rep.Quickness=Average"
+    },
+}
